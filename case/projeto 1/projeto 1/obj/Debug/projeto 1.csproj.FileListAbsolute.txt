@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\bin\Debug\projeto 1.exe.config
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\bin\Debug\projeto 1.exe
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\bin\Debug\projeto 1.pdb
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\obj\Debug\projeto 1.exe
+C:\Users\User\Desktop\C#\meus projetos de c#\projeto 1\projeto 1\obj\Debug\projeto 1.pdb
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\bin\Debug\projeto 1.exe.config
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\bin\Debug\projeto 1.exe
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\bin\Debug\projeto 1.pdb
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\obj\Debug\projeto 1.exe
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\case\projeto 1\projeto 1\obj\Debug\projeto 1.pdb
