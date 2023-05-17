@@ -1,0 +1,21 @@
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.Form1.resources
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\Calculos\Calculos\obj\Debug\Calculos.pdb
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.Form1.resources
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Users\USER\Desktop\pendrive\C#\1905\Calculos\Calculos\obj\Debug\Calculos.pdb
