@@ -1,0 +1,19 @@
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.exe
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.pdb
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.AssemblyReference.cache
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.Form1.resources
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.Properties.Resources.resources
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.GenerateResource.cache
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.exe
+C:\Users\Anderson Spera\source\repos\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.pdb
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.exe.config
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.exe
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\bin\Debug\CaraCoroa.pdb
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.Form1.resources
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.Properties.Resources.resources
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.exe
+C:\Users\USER\Desktop\pendrive\C#\1905\CaraCoroa\CaraCoroa\obj\Debug\CaraCoroa.pdb
