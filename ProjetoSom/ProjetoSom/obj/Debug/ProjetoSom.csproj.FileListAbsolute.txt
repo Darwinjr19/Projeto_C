@@ -1,0 +1,50 @@
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.exe.config
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.exe
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.pdb
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.AssemblyReference.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.SuggestedBindingRedirects.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.Form1.resources
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.Properties.Resources.resources
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.GenerateResource.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.CoreCompileInputs.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.exe
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.pdb
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\bin\Debug\Interop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\Interop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.ResolveComReference.cache
+C:\Users\Etec Franco da Rocha\OneDrive - Etec Centro Paula Souza\Desktop\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.frmPlayer.resources
+E:\C#\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.exe.config
+E:\C#\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.exe
+E:\C#\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.pdb
+E:\C#\ProjetoSom\ProjetoSom\bin\Debug\Interop.WMPLib.dll
+E:\C#\ProjetoSom\ProjetoSom\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.AssemblyReference.cache
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.SuggestedBindingRedirects.cache
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\Interop.WMPLib.dll
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\AxInterop.WMPLib.dll
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.ResolveComReference.cache
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.Form1.resources
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.frmPlayer.resources
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.Properties.Resources.resources
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.GenerateResource.cache
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.CoreCompileInputs.cache
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.exe
+E:\C#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.pdb
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.exe.config
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.exe
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\bin\Debug\ProjetoSom.pdb
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.Form1.resources
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.frmPlayer.resources
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.Properties.Resources.resources
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.exe
+C:\Users\USER\Desktop\pendrive\C#\meus projetos de c#\ProjetoSom\ProjetoSom\obj\Debug\ProjetoSom.pdb
