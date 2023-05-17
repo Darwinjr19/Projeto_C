@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\bin\Debug\conversao de D,E,B.exe.config
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\bin\Debug\conversao de D,E,B.exe
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\bin\Debug\conversao de D,E,B.pdb
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\obj\Debug\conversao de D,E,B.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\obj\Debug\conversao de D,E,B.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\obj\Debug\conversao de D,E,B.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\obj\Debug\conversao de D,E,B.exe
+C:\Users\User\Desktop\C#\meus projetos de c#\conversao de D,E,B\conversao de D,E,B\obj\Debug\conversao de D,E,B.pdb

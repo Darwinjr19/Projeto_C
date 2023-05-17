@@ -1,0 +1,8 @@
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\bin\Debug\imc.exe.config
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\bin\Debug\imc.exe
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\bin\Debug\imc.pdb
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\obj\Debug\imc.csproj.SuggestedBindingRedirects.cache
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\obj\Debug\imc.exe
+E:\C#\meus projetos de c#\Lista de exerc IF\imc\imc\obj\Debug\imc.pdb

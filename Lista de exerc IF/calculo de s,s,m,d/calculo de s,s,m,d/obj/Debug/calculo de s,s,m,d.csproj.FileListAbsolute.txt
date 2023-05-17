@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\bin\Debug\calculo de s,s,m,d.exe.config
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\bin\Debug\calculo de s,s,m,d.exe
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\bin\Debug\calculo de s,s,m,d.pdb
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\obj\Debug\calculo de s,s,m,d.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\obj\Debug\calculo de s,s,m,d.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\obj\Debug\calculo de s,s,m,d.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\obj\Debug\calculo de s,s,m,d.exe
+C:\Users\User\Desktop\C#\meus projetos de c#\calculo de s,s,m,d\calculo de s,s,m,d\obj\Debug\calculo de s,s,m,d.pdb
